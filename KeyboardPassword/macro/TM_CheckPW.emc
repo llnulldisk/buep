@@ -1,0 +1,6 @@
+#MFE(butC() != $0D)
+#VSS0,"Password123"
+#VSO1,14
+#SEC14,$0C
+#MFE(strC(0,1) == 0) "screen/sc_menu"
+#SSP6,3,(scrW()/2),(scrH()/2),5,"Password wrong!"

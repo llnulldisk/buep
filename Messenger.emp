@@ -1,0 +1,30 @@
+[General]
+buildVersion=2000
+projectMacro=Private/macro/Messenger.emm
+exportLocation=C:/Users/stefan_widmer/AppData/Local/Temp/uniTFT Designer-P1XkOA/SampleProjects/Tutorial/15_KeyboardPassword
+exportFileName=Backup
+encryption=0 0
+
+[Project]
+sc_menu=13, 29, 100, 100, 0
+sc_main=86, 78, 100, 100, 1
+sc_back=0, 0, 100, 100, 0
+
+[UserObjID]
+lb_pwWrong=6
+
+[ScreenTransitions]
+SplitScrTrans="id=6name=SplitScrTranstransition=5direction=1time=50triggerEvent=0curve=1"
+FlipScrTrans="id=7name=FlipScrTranstransition=6direction=0time=50triggerEvent=0curve=2"
+PushScrTrans="id=1name=PushScrTranstransition=0direction=1time=50triggerEvent=0curve=1"
+FadeScrTrans="id=5name=FadeScrTranstransition=4direction=0time=50triggerEvent=0curve=2"
+UncoverScrTrans="id=3name=UncoverScrTranstransition=2direction=3time=50triggerEvent=0curve=1"
+ZoomScrTrans="id=4name=ZoomScrTranstransition=3direction=4time=50triggerEvent=0curve=2"
+CoverScrTrans="id=2name=CoverScrTranstransition=1direction=3time=50triggerEvent=0curve=1"
+
+[ProjectTree]
+SORT=0, 0, 0, 0, 0, 0
+SORTDIR=0, 0, 0, 0, 0, 0
+
+[%General]
+uniTFTupdate=0
