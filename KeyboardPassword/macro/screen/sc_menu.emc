@@ -1,9 +1,0 @@
-#XCO0
-#ODI0
-#MRS<P:macro/screen/sc_back.emc>
-#OBG-2,12
-#SSP1,3,28,376,1,"Menu"
-#SSP2,4,28,303,1,"Password protected menu"
-#TBR3,9,"Back";"";703,59,5
-#MDT3,<P:macro/screen/sc_main.emc>
-#TCR0,1,3
