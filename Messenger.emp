@@ -6,9 +6,9 @@ exportFileName=Backup
 encryption=0 0
 
 [Project]
-sc_menu=13, 29, 100, 100, 0
-sc_main=86, 78, 100, 100, 1
-sc_back=0, 0, 100, 100, 0
+sc_menu=14, 57, 100, 100, 1
+sc_main=-1, -1, 80, 100, 1
+sc_back=-471, 58, 100, 100, 1
 
 [UserObjID]
 lb_pwWrong=6
