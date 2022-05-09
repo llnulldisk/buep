@@ -1,7 +1,10 @@
 #MFE(butC() != $0D)
-#VSS0,"easteregg"
-#VSO1,14
+#VSO0,14
 #SEC14,$0C
-#MFE(strC(0,1) == 0) "screen/sc_menu"
-#VSU1
-#PPP20,"user";1220,400,3,50,50
+#VSUS0
+#HRA"A"
+#PPPR1,"user";1220,R0,3,50,50
+#SSP(R1+1),1,1100,R0,3,S0
+#VRI0,(R0-100)
+#VRI1,(R1+2)
+#OPA(objX(14)),(objY(14) - 353),14
