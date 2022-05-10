@@ -6,7 +6,7 @@ exportFileName=Backup
 encryption=0 0
 
 [Project]
-sc_main=0, -99, 80, 100, 1
+sc_main=0, 0, 80, 100, 1
 sc_backgrnd=27, 63, 100, 100, 1
 
 [UserObjID]
