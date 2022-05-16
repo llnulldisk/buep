@@ -1,13 +1,14 @@
 #MFE(butC() != $0D)
 #VSO0,14
 #SEC14,$0C
+#OPA(objX(14)),0,14
 #MFE(strL(0) == 0)
-#VSUS0
-#HRA"A"
+#MFJ(R0 >= 450),1
+#OPR0,100,20,21,22,23,24,25,26,27,28,29,30
+#MFM1
+#VSSR2,S0
+#VRI2,(R2 + 1)
 #PPPR1,"user";1250,R0,3,50,50
 #SSP(R1+1),13,1170,(R0 - 5),3,S0
-#VRI0,(R0-70)
-#VRI1,(R1+2)
-#OPA(objX(14)),0,14
-#OLR1,13,14
-#MRN"uart_receive"
+#VRI0,(R0 - 70)
+#VRI1,(R1 + 2)
