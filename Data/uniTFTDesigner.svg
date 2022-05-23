@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg4534"
+   version="1.1"
+   viewBox="0 0 135.26459 135.29721"
+   height="135.29721mm"
+   width="135.26459mm">
+  <defs
+     id="defs4528">
+    <radialGradient
+       gradientTransform="matrix(2.0531641,-1.9121722,2.906662,3.1204303,-724.08189,50.964291)"
+       gradientUnits="userSpaceOnUse"
+       r="67.5"
+       fy="179.69211"
+       fx="156.72281"
+       cy="179.69211"
+       cx="156.72281"
+       id="radialGradient7417"
+       xlink:href="#linearGradient7445" />
+    <linearGradient
+       id="linearGradient7445">
+      <stop
+         style="stop-color:#d7801a;stop-opacity:1"
+         offset="0"
+         id="stop7439" />
+      <stop
+         id="stop7441"
+         offset="0.61963236"
+         style="stop-color:#fb9d2d;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffa02f;stop-opacity:0"
+         offset="1"
+         id="stop7443" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0002412,-15.132292,176.77609)"
+       r="67.632294"
+       fy="135.1913"
+       fx="135.13229"
+       cy="135.1913"
+       cx="135.13229"
+       id="radialGradient7429"
+       xlink:href="#linearGradient7445" />
+  </defs>
+  <metadata
+     id="metadata4531">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-3.4028721e-7,-161.70279)"
+     id="layer1">
+    <g
+       id="g7373"
+       transform="translate(15.132292,-15.132292)">
+      <path
+         style="fill:url(#radialGradient7417);fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient7429);stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -15,312 H 120 V 207 L -15,177 Z"
+         id="path6512-6" />
+      <g
+         id="g4986-4-3"
+         transform="translate(-228.1087,117.95789)">
+        <path
+           id="path4485-2-0-0-3-4"
+           d="m 228.1087,119.1424 v 29.89998 h 0.005 a 29.95,29.899629 0 0 0 -0.005,0.10025 29.95,29.899629 0 0 0 29.95012,29.89948 29.95,29.899629 0 0 0 29.94959,-29.89948 29.95,29.899629 0 0 0 -0.004,-0.10025 h 0.004 V 119.1424 h -16.24965 v 29.89998 h -0.002 a 13.7,13.7 0 0 1 0.002,0.0501 13.7,13.7 0 0 1 -13.69994,13.69994 13.7,13.7 0 0 1 -13.70046,-13.69994 13.7,13.7 0 0 1 0.003,-0.0501 h -0.003 V 119.1424 Z"
+           style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <path
+           id="path4485-2-0-8-3-6-15"
+           d="m 309.70425,149.04211 v -29.89998 h -0.005 a 29.95,29.899629 0 0 0 0.005,-0.10025 29.95,29.899629 0 0 0 -29.95011,-29.899477 29.95,29.899629 0 0 0 -29.94959,29.899477 29.95,29.899629 0 0 0 0.004,0.10025 h -0.004 v 29.89998 h 16.24965 v -29.89998 h 0.002 a 13.7,13.7 0 0 1 -0.002,-0.0501 13.7,13.7 0 0 1 13.69994,-13.69994 13.7,13.7 0 0 1 13.70046,13.69994 13.7,13.7 0 0 1 -0.003,0.0501 h 0.003 v 29.89998 z"
+           style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <rect
+           y="119.14211"
+           x="315.04605"
+           height="59.899998"
+           width="16.25"
+           id="rect4648-8-0-6-9"
+           style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.09999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      </g>
+    </g>
+  </g>
+</svg>
