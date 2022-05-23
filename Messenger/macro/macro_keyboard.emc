@@ -10,6 +10,8 @@
 #VSSR2,S0
 #VRI2,(R2 + 1)
 #PPPR1,"user";1250,R0,3,50,50
-#SSP(R1+1),13,1170,(R0 - 5),3,S0
+#SSP(R1 + 1),13,1170,(R0 - 5),3,S0
 #VRI0,(R0 - 70)
 #VRI1,(R1 + 2)
+#XSU"#VSS 0, \"" S0 "\";"
+#XSU"#MRN \"uart_receive\";"
